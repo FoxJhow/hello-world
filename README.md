@@ -1,2 +1,2 @@
 # hello-world
-Repositório para armazenar ideias, recursos e compartilhar ideias.
+Repositório para armazenar ideias, recursos e compartilhar conhecimento.
